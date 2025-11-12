@@ -1,4 +1,4 @@
- 💼 Java Spring Boot, Angular, and MySQL Project on Helpdesk Ticketing System
+ 💼 Java Spring Boot, Angular, and MySQL Project on **Helpdesk Ticketing System**
 
 ## 📘 Project Overview
 
